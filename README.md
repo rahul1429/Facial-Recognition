@@ -1,3 +1,3 @@
 # Facial-Recognition
 
-#Using Clarifai API  and    PostgreseSQL
+Using Clarifai API  and    PostgreseSQL
